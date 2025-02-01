@@ -20,7 +20,7 @@ With the rapid rise of social media, false or misleading information—commonly 
   - **Fake News**  
   - **Original News**  
 
-For dataset access and participation details, visit the **Participate** tab [here](#).  
+For dataset access and participation details, visit the **Participate** tab [here](https://codalab.lisn.upsaclay.fr/competitions/20698).  
 
 ## **Repository Structure**  
 
